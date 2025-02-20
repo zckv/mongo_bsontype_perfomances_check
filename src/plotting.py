@@ -8,7 +8,7 @@ with open(p) as f:
     res = json.load(f)
 reskeys = [int(k) for k in sorted(res.keys(), key=int)]
 
-for y in ('insertion', 'find', 'totalSize'):
+for y in ('insertion', 'find', 'size', 'totalSize'):
     fix, ax = plt.subplots()
     for types in ("int", "number", "test", "long", "decimal", "double"):
         ax.plot(
@@ -21,6 +21,7 @@ for y in ('insertion', 'find', 'totalSize'):
     ax.set_title(f"{y} by number documents")
     ax.set_xlabel("Number of documents")
     ax.set_ylabel(y)
+    plt.savefig(f'{y}_flat.png')
     ax.set_xscale("log", base=10)
     ax.set_yscale("log", base=10)
     plt.savefig(f'{y}.png')

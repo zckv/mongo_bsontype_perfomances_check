@@ -1,0 +1,552 @@
+{
+    "500000": {
+        "test": {
+            "insertion": 6.230312824249268,
+            "find": 0.00971531867980957,
+            "size": 16500000,
+            "storageSize": 8966144,
+            "indexSizes": 27217920,
+            "totalSize": 36184064
+        },
+        "int": {
+            "insertion": 6.251859664916992,
+            "find": 0.009497642517089844,
+            "size": 16500000,
+            "storageSize": 8998912,
+            "indexSizes": 27414528,
+            "totalSize": 36413440
+        },
+        "long": {
+            "insertion": 6.150959253311157,
+            "find": 0.009383678436279297,
+            "size": 18500000,
+            "storageSize": 9498624,
+            "indexSizes": 28913664,
+            "totalSize": 38412288
+        },
+        "decimal": {
+            "insertion": 6.603602647781372,
+            "find": 0.00937032699584961,
+            "size": 22500000,
+            "storageSize": 9129984,
+            "indexSizes": 28913664,
+            "totalSize": 38043648
+        },
+        "double": {
+            "insertion": 6.29889178276062,
+            "find": 0.009469747543334961,
+            "size": 18500000,
+            "storageSize": 9998336,
+            "indexSizes": 28913664,
+            "totalSize": 38912000
+        },
+        "number": {
+            "insertion": 6.489962577819824,
+            "find": 0.009557962417602539,
+            "size": 16500000,
+            "storageSize": 970752,
+            "indexSizes": 3194880,
+            "totalSize": 4165632
+        }
+    },
+    "1000000": {
+        "test": {
+            "insertion": 12.963869571685791,
+            "find": 0.00975346565246582,
+            "size": 33000000,
+            "storageSize": 17620992,
+            "indexSizes": 57315328,
+            "totalSize": 74936320
+        },
+        "int": {
+            "insertion": 12.839004516601562,
+            "find": 0.009508371353149414,
+            "size": 33000000,
+            "storageSize": 17645568,
+            "indexSizes": 57184256,
+            "totalSize": 74829824
+        },
+        "long": {
+            "insertion": 12.594849824905396,
+            "find": 0.009514808654785156,
+            "size": 37000000,
+            "storageSize": 18616320,
+            "indexSizes": 58290176,
+            "totalSize": 76906496
+        },
+        "decimal": {
+            "insertion": 13.832100868225098,
+            "find": 0.009922981262207031,
+            "size": 45000000,
+            "storageSize": 19165184,
+            "indexSizes": 77004800,
+            "totalSize": 96169984
+        },
+        "double": {
+            "insertion": 13.005230188369751,
+            "find": 0.009623050689697266,
+            "size": 37000000,
+            "storageSize": 19243008,
+            "indexSizes": 47357952,
+            "totalSize": 66772992
+        },
+        "number": {
+            "insertion": 13.170700311660767,
+            "find": 0.009530782699584961,
+            "size": 33000000,
+            "storageSize": 4096,
+            "indexSizes": 450560,
+            "totalSize": 454656
+        }
+    },
+    "2000000": {
+        "test": {
+            "insertion": 26.86762046813965,
+            "find": 0.009721517562866211,
+            "size": 66000000,
+            "storageSize": 34930688,
+            "indexSizes": 112582656,
+            "totalSize": 147513344
+        },
+        "int": {
+            "insertion": 26.487508296966553,
+            "find": 0.009255647659301758,
+            "size": 66000000,
+            "storageSize": 34381824,
+            "indexSizes": 114724864,
+            "totalSize": 149106688
+        },
+        "long": {
+            "insertion": 26.81478762626648,
+            "find": 0.009194612503051758,
+            "size": 74000000,
+            "storageSize": 39133184,
+            "indexSizes": 117403648,
+            "totalSize": 156536832
+        },
+        "decimal": {
+            "insertion": 27.31138300895691,
+            "find": 0.009312868118286133,
+            "size": 90000000,
+            "storageSize": 36757504,
+            "indexSizes": 148086784,
+            "totalSize": 184844288
+        },
+        "double": {
+            "insertion": 27.063058376312256,
+            "find": 0.009312868118286133,
+            "size": 74000000,
+            "storageSize": 38961152,
+            "indexSizes": 122068992,
+            "totalSize": 161030144
+        },
+        "number": {
+            "insertion": 27.594914197921753,
+            "find": 0.009414911270141602,
+            "size": 66000000,
+            "storageSize": 30146560,
+            "indexSizes": 105111552,
+            "totalSize": 135258112
+        }
+    },
+    "3000000": {
+        "test": {
+            "insertion": 41.522682666778564,
+            "find": 0.009563207626342773,
+            "size": 99000000,
+            "storageSize": 57683968,
+            "indexSizes": 182280192,
+            "totalSize": 239964160
+        },
+        "int": {
+            "insertion": 42.31919002532959,
+            "find": 0.009345531463623047,
+            "size": 99000000,
+            "storageSize": 55848960,
+            "indexSizes": 200736768,
+            "totalSize": 256585728
+        },
+        "long": {
+            "insertion": 42.523293018341064,
+            "find": 0.009410858154296875,
+            "size": 111000000,
+            "storageSize": 54964224,
+            "indexSizes": 273137664,
+            "totalSize": 328101888
+        },
+        "decimal": {
+            "insertion": 42.10495400428772,
+            "find": 0.009431123733520508,
+            "size": 135000000,
+            "storageSize": 56877056,
+            "indexSizes": 281047040,
+            "totalSize": 337924096
+        },
+        "double": {
+            "insertion": 41.22225618362427,
+            "find": 0.009423017501831055,
+            "size": 111000000,
+            "storageSize": 55504896,
+            "indexSizes": 186941440,
+            "totalSize": 242446336
+        },
+        "number": {
+            "insertion": 41.57117319107056,
+            "find": 0.009340524673461914,
+            "size": 99000000,
+            "storageSize": 35250176,
+            "indexSizes": 128131072,
+            "totalSize": 163381248
+        }
+    },
+    "4000000": {
+        "test": {
+            "insertion": 55.80500316619873,
+            "find": 0.009779691696166992,
+            "size": 132000000,
+            "storageSize": 76873728,
+            "indexSizes": 289533952,
+            "totalSize": 366407680
+        },
+        "int": {
+            "insertion": 57.94562864303589,
+            "find": 0.009422063827514648,
+            "size": 132000000,
+            "storageSize": 75677696,
+            "indexSizes": 313327616,
+            "totalSize": 389005312
+        },
+        "long": {
+            "insertion": 55.80180048942566,
+            "find": 0.009780645370483398,
+            "size": 148000000,
+            "storageSize": 72839168,
+            "indexSizes": 322383872,
+            "totalSize": 395223040
+        },
+        "decimal": {
+            "insertion": 57.99419593811035,
+            "find": 0.00996088981628418,
+            "size": 180000000,
+            "storageSize": 74391552,
+            "indexSizes": 249974784,
+            "totalSize": 324366336
+        },
+        "double": {
+            "insertion": 56.95386028289795,
+            "find": 0.009552478790283203,
+            "size": 148000000,
+            "storageSize": 74289152,
+            "indexSizes": 247574528,
+            "totalSize": 321863680
+        },
+        "number": {
+            "insertion": 55.167574882507324,
+            "find": 0.009857654571533203,
+            "size": 132000000,
+            "storageSize": 62808064,
+            "indexSizes": 190504960,
+            "totalSize": 253313024
+        }
+    },
+    "5000000": {
+        "test": {
+            "insertion": 71.26821565628052,
+            "find": 0.009851694107055664,
+            "size": 165000000,
+            "storageSize": 88625152,
+            "indexSizes": 311394304,
+            "totalSize": 400019456
+        },
+        "int": {
+            "insertion": 73.31981229782104,
+            "find": 0.009366273880004883,
+            "size": 165000000,
+            "storageSize": 94412800,
+            "indexSizes": 455081984,
+            "totalSize": 549494784
+        },
+        "long": {
+            "insertion": 70.76257181167603,
+            "find": 0.009549856185913086,
+            "size": 185000000,
+            "storageSize": 91254784,
+            "indexSizes": 415379456,
+            "totalSize": 506634240
+        },
+        "decimal": {
+            "insertion": 72.24228167533875,
+            "find": 0.009259462356567383,
+            "size": 225000000,
+            "storageSize": 93171712,
+            "indexSizes": 360787968,
+            "totalSize": 453959680
+        },
+        "double": {
+            "insertion": 71.43581986427307,
+            "find": 0.009380817413330078,
+            "size": 185000000,
+            "storageSize": 92581888,
+            "indexSizes": 314576896,
+            "totalSize": 407158784
+        },
+        "number": {
+            "insertion": 70.72526931762695,
+            "find": 0.009420394897460938,
+            "size": 165000000,
+            "storageSize": 86970368,
+            "indexSizes": 191614976,
+            "totalSize": 278585344
+        }
+    },
+    "6000000": {
+        "test": {
+            "insertion": 86.77012467384338,
+            "find": 0.00986337661743164,
+            "size": 198000000,
+            "storageSize": 114163712,
+            "indexSizes": 478941184,
+            "totalSize": 593104896
+        },
+        "int": {
+            "insertion": 86.80107092857361,
+            "find": 0.009324312210083008,
+            "size": 198000000,
+            "storageSize": 117534720,
+            "indexSizes": 401412096,
+            "totalSize": 518946816
+        },
+        "long": {
+            "insertion": 85.28852081298828,
+            "find": 0.009367227554321289,
+            "size": 222000000,
+            "storageSize": 107991040,
+            "indexSizes": 525651968,
+            "totalSize": 633643008
+        },
+        "decimal": {
+            "insertion": 87.78520011901855,
+            "find": 0.009549140930175781,
+            "size": 270000000,
+            "storageSize": 112685056,
+            "indexSizes": 534933504,
+            "totalSize": 647618560
+        },
+        "double": {
+            "insertion": 86.84344387054443,
+            "find": 0.009798049926757812,
+            "size": 222000000,
+            "storageSize": 111939584,
+            "indexSizes": 431783936,
+            "totalSize": 543723520
+        },
+        "number": {
+            "insertion": 83.97326231002808,
+            "find": 0.009488582611083984,
+            "size": 198000000,
+            "storageSize": 102346752,
+            "indexSizes": 277434368,
+            "totalSize": 379781120
+        }
+    },
+    "7000000": {
+        "test": {
+            "insertion": 98.85744333267212,
+            "find": 0.009881019592285156,
+            "size": 231000000,
+            "storageSize": 136429568,
+            "indexSizes": 502128640,
+            "totalSize": 638558208
+        },
+        "int": {
+            "insertion": 103.79390239715576,
+            "find": 0.00947880744934082,
+            "size": 231000000,
+            "storageSize": 134348800,
+            "indexSizes": 587354112,
+            "totalSize": 721702912
+        },
+        "long": {
+            "insertion": 101.79808259010315,
+            "find": 0.00946664810180664,
+            "size": 259000000,
+            "storageSize": 127787008,
+            "indexSizes": 667226112,
+            "totalSize": 795013120
+        },
+        "decimal": {
+            "insertion": 103.83415102958679,
+            "find": 0.012502193450927734,
+            "size": 315000000,
+            "storageSize": 130641920,
+            "indexSizes": 524636160,
+            "totalSize": 655278080
+        },
+        "double": {
+            "insertion": 99.12809467315674,
+            "find": 0.010756969451904297,
+            "size": 259000000,
+            "storageSize": 130826240,
+            "indexSizes": 607215616,
+            "totalSize": 738041856
+        },
+        "number": {
+            "insertion": 100.91457962989807,
+            "find": 0.00954890251159668,
+            "size": 231000000,
+            "storageSize": 113356800,
+            "indexSizes": 372551680,
+            "totalSize": 485908480
+        }
+    },
+    "8000000": {
+        "test": {
+            "insertion": 115.86254405975342,
+            "find": 0.010085344314575195,
+            "size": 264000000,
+            "storageSize": 155246592,
+            "indexSizes": 546828288,
+            "totalSize": 702074880
+        },
+        "int": {
+            "insertion": 117.6632673740387,
+            "find": 0.009455204010009766,
+            "size": 264000000,
+            "storageSize": 152154112,
+            "indexSizes": 590237696,
+            "totalSize": 742391808
+        },
+        "long": {
+            "insertion": 113.94844913482666,
+            "find": 0.009646892547607422,
+            "size": 296000000,
+            "storageSize": 144203776,
+            "indexSizes": 614506496,
+            "totalSize": 758710272
+        },
+        "decimal": {
+            "insertion": 122.5711784362793,
+            "find": 0.00958871841430664,
+            "size": 360000000,
+            "storageSize": 149905408,
+            "indexSizes": 740753408,
+            "totalSize": 890658816
+        },
+        "double": {
+            "insertion": 116.34186244010925,
+            "find": 0.00930643081665039,
+            "size": 296000000,
+            "storageSize": 145670144,
+            "indexSizes": 771919872,
+            "totalSize": 917590016
+        },
+        "number": {
+            "insertion": 117.79407382011414,
+            "find": 0.009242534637451172,
+            "size": 264000000,
+            "storageSize": 144982016,
+            "indexSizes": 471642112,
+            "totalSize": 616624128
+        }
+    },
+    "9000000": {
+        "test": {
+            "insertion": 133.07101249694824,
+            "find": 0.009542703628540039,
+            "size": 297000000,
+            "storageSize": 176377856,
+            "indexSizes": 813355008,
+            "totalSize": 989732864
+        },
+        "int": {
+            "insertion": 136.10351538658142,
+            "find": 0.009277820587158203,
+            "size": 297000000,
+            "storageSize": 174333952,
+            "indexSizes": 780083200,
+            "totalSize": 954417152
+        },
+        "long": {
+            "insertion": 128.2624228000641,
+            "find": 0.00925135612487793,
+            "size": 333000000,
+            "storageSize": 164446208,
+            "indexSizes": 768573440,
+            "totalSize": 933019648
+        },
+        "decimal": {
+            "insertion": 133.6841917037964,
+            "find": 0.009304523468017578,
+            "size": 405000000,
+            "storageSize": 167510016,
+            "indexSizes": 782483456,
+            "totalSize": 949993472
+        },
+        "double": {
+            "insertion": 135.2001953125,
+            "find": 0.009683370590209961,
+            "size": 333000000,
+            "storageSize": 166207488,
+            "indexSizes": 731193344,
+            "totalSize": 897400832
+        },
+        "number": {
+            "insertion": 129.93511843681335,
+            "find": 0.009665489196777344,
+            "size": 297000000,
+            "storageSize": 170106880,
+            "indexSizes": 631087104,
+            "totalSize": 801193984
+        }
+    },
+    "10000000": {
+        "test": {
+            "insertion": 149.6455099582672,
+            "find": 0.00982213020324707,
+            "size": 330000000,
+            "storageSize": 190009344,
+            "indexSizes": 897212416,
+            "totalSize": 1087221760
+        },
+        "int": {
+            "insertion": 147.07038259506226,
+            "find": 0.009366750717163086,
+            "size": 330000000,
+            "storageSize": 192151552,
+            "indexSizes": 832520192,
+            "totalSize": 1024671744
+        },
+        "long": {
+            "insertion": 144.3123505115509,
+            "find": 0.009492635726928711,
+            "size": 370000000,
+            "storageSize": 180420608,
+            "indexSizes": 757506048,
+            "totalSize": 937926656
+        },
+        "decimal": {
+            "insertion": 152.72070121765137,
+            "find": 0.009428739547729492,
+            "size": 450000000,
+            "storageSize": 185987072,
+            "indexSizes": 811962368,
+            "totalSize": 997949440
+        },
+        "double": {
+            "insertion": 151.13458037376404,
+            "find": 0.009488105773925781,
+            "size": 370000000,
+            "storageSize": 185561088,
+            "indexSizes": 931393536,
+            "totalSize": 1116954624
+        },
+        "number": {
+            "insertion": 147.37821912765503,
+            "find": 0.009354829788208008,
+            "size": 330000000,
+            "storageSize": 183619584,
+            "indexSizes": 794001408,
+            "totalSize": 977620992
+        }
+    }
+}
